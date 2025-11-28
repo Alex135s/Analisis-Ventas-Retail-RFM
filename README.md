@@ -14,4 +14,4 @@ Este proyecto analiza un dataset transaccional de E-commerce (Retail) para ident
 3.  **Calidad de Datos:** Se limpiaron más de 200,000 registros de devoluciones y errores de sistema.
 
 ## 📸 Visualización
-![Dashboard Power BI](Dashboard_Final.png)
+![Dashboard Power BI](dashboard_Final.png)
